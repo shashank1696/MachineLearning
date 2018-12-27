@@ -1,7 +1,7 @@
 # MachineLearning
 StackOverFlow_dataset
 ## Goal for this Notebook:
-Show a simple example of an analysis of the StackOverflow datset in Python using a full complement of PyData utilities. Here we Predict the Amount Spent for range of Customers considering the salaries of customers with different roles
+Show a simple example of an analysis of the StackOverflow datset in Python using a full complement of PyData utilities. Here we Predict the Amount Spent for range of Customers considering the salaries of customers with different roles.
 ## Data Handling
 1) Importing Data with Pandas
 2) Cleaning Data
