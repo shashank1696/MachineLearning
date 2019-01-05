@@ -50,7 +50,6 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 3) Root Mean Squared Error: 649.439705460658
 
 ## Conclusion
-- I have solved this probelm using Decision Tree Regression with 59.1% accuracy.
-- Using Gradient Boosting Algorithm with 66.3% accuracy.
-- Using 
-
+- I have solved this probelm using Decision Tree Regression with 62.9% accuracy and
+- Using Gradient Boosting Algorithm with 66.3% accuracy and
+- Using Random Forest Regressor Algorithm with 64.6% accuracy(Mean Absolute Error: 17180.42 degrees)
