@@ -2,6 +2,31 @@
 StackOverFlow_dataset
 ## Goal for this Notebook:
 Show a simple example of an analysis of the StackOverflow datset in Python using a full complement of PyData utilities. Here we Predict the Amount Spent for range of Customers considering the salaries of customers with different roles.
+
+## Attributes
+1)  RespondentID(Integer)
+2)  Salary(Float)
+3)  YearsCodedJob(Integer)
+4)  OpenSource(Binary)
+5)  Hobby(Binary)
+6)  CareerSatisfaction(Integer)
+7)  Datascientist(Binary)
+8)  Database administrator(Binary)
+9)  Desktop applications developer
+10) Developer with stats/math background
+11) CompanySizeNumber(Categorical:(Float) 'new')
+12) DevOps
+13) 
+14)
+15)
+16)
+17)
+18)
+19)
+20)
+21)
+
+
 ## Data Handling
 1) Importing Data with Pandas
 2) Cleaning Data
@@ -17,10 +42,12 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 6) os
 7) from IPython.display importing Image
 8) sklearn.metrics
+9) sklearn.ensemble
 
 ## Error Calculations
 1) Mean Absolute Error: 413.53466720353447
 2) Mean Squared Error: 421771.9310288262
 3) Root Mean Squared Error: 649.439705460658
+
 ## Conclusion
 I have solved this probelm using Decision Tree Regression with 59.1% accuracy.
