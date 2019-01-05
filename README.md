@@ -33,15 +33,16 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 4) Data Prediction
 
 ## Packages required in Python
-1) pandas
-2) numpy
-3) sklearn.tree
-4) sklearn.model_selection
-5) pydotplus
-6) os
-7) from IPython.display importing Image
-8) sklearn.metrics
-9) sklearn.ensemble
+1)  pandas
+2)  numpy
+3)  sklearn.tree
+4)  sklearn.model_selection
+5)  pydotplus
+6)  os
+7)  from IPython.display importing Image
+8)  sklearn.metrics
+9)  sklearn.ensemble
+10) sklearn.ensemble.partial_dependence
 
 ## Error Calculations
 1) Mean Absolute Error: 413.53466720353447
@@ -49,4 +50,7 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 3) Root Mean Squared Error: 649.439705460658
 
 ## Conclusion
-I have solved this probelm using Decision Tree Regression with 59.1% accuracy.
+- I have solved this probelm using Decision Tree Regression with 59.1% accuracy.
+- Using Gradient Boosting Algorithm with 66.3% accuracy.
+- Using 
+
