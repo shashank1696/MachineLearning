@@ -12,20 +12,19 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 6)  CareerSatisfaction(Integer)
 7)  Datascientist(Binary)
 8)  Database administrator(Binary)
-9)  Desktop applications developer
-10) Developer with stats/math background
+9)  Desktop applications developer(Binary)
+10) Developer with stats/math background(Binary)
 11) CompanySizeNumber(Categorical:(Float) 'new')
-12) DevOps
-13) 
-14)
-15)
-16)
-17)
-18)
-19)
-20)
-21)
-
+12) DevOps(Binary)
+13) Embedded developer(Binary)
+14) Graphic designer(Binary)
+15) Graphics programming(Binary)
+16) Machine learning specialist(Binary)
+17) Mobile developer(Binary)
+18) Quality assurance engineer(Binary)
+19) Systems administrator(Binary)
+20) Web developer(Binary)
+21) Remote(Categorical: 'Remote' or 'Non-Remote')
 
 ## Data Handling
 1) Importing Data with Pandas
