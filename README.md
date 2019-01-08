@@ -44,6 +44,12 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 9)  sklearn.ensemble
 10) sklearn.ensemble.partial_dependence
 
+## Graphs
+![machinelearning2](https://user-images.githubusercontent.com/44108439/50859627-e302cd80-13b9-11e9-9e6c-748e78c93428.png)
+- Feature Importance using Gradient Boosting Algorithm
+![machinelearning1](https://user-images.githubusercontent.com/44108439/50859634-e8601800-13b9-11e9-986a-d2544253070c.png)
+- RespondentID VS Partial dependence
+
 ## Error Calculations
 1) Mean Absolute Error: 413.53466720353447
 2) Mean Squared Error: 421771.9310288262
