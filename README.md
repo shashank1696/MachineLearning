@@ -1,5 +1,5 @@
 # MachineLearning
-To predict the salary of Employees across different levels, skill set from StackOverFlow dataset using Decision Tree, Random Forest and Gradient Boosting Algorithm techniques.
+To predict the salary of Employees across different levels, skill set considering different aspects from StackOverFlow dataset using Decision Tree, Random Forest and Gradient Boosting Algorithm techniques.
 
 ## Goal for this Notebook:
 Show a simple example of an analysis of the StackOverflow datset in Python using a full complement of PyData utilities. Here we Predict the Amount Spent for range of Customers considering the salaries of customers with different roles.
