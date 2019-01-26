@@ -58,7 +58,7 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 
 ## Conclusion
 - Predicting the Amount Spent for range of Customers considering the salaries of customers
-  with different roles using different Algorithms.
-- Using Decision Tree Regression Algorithm with 62.9% accuracy and
-- Using Gradient Boosting Algorithm with 66.3% accuracy and
-- Using Random Forest Regressor Algorithm with 64.6% accuracy(Mean Absolute Error: 17180.42 degrees)
+  with different roles using different Algorithms:
+* Using Decision Tree Regression Algorithm with 62.9% accuracy and
+* Using Gradient Boosting Algorithm with 66.3% accuracy and
+* Using Random Forest Regressor Algorithm with 64.6% accuracy(Mean Absolute Error: 17180.42 degrees)
