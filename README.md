@@ -15,7 +15,7 @@ Show a simple example of an analysis of the StackOverflow datset in Python using
 8)  Database administrator(Binary)
 9)  Desktop applications developer(Binary)
 10) Developer with stats/math background(Binary)
-11) CompanySizeNumber(Categorical:(Float) 'new')
+11) CompanySizeNumber(Categorical:(Float: 'new')
 12) DevOps(Binary)
 13) Embedded developer(Binary)
 14) Graphic designer(Binary)
